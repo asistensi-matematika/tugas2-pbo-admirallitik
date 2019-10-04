@@ -32,7 +32,6 @@ penjelasan:(1+3i) * (2+i) = 2 + i + 6i + i2 = -2+7i
 ```
 input:"4i","3-7i"
 output: 28 + 12i
-
 ```
 ```
 input:"7+6i","7+6i"
