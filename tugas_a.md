@@ -34,9 +34,10 @@ input:"4i","3-7i"
 output: 28 + 12i
 
 ```
+```
 input:"7+6i","7+6i"
 output: 13 + 84i
-...
+```
 
 ### 1 extra mile
 soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
