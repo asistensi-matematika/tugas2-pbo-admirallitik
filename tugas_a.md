@@ -45,7 +45,9 @@ output: -27i3
 ```
 
 ## screenshot hasil
+<img width="480" alt="Asis3_bilKompleks1" src="https://user-images.githubusercontent.com/49511318/66188712-363c4f00-e6b2-11e9-86e9-f3d14e16f3c5.PNG">
 
+<img width="401" alt="Asis3_bilKompleks2" src="https://user-images.githubusercontent.com/49511318/66188720-3e948a00-e6b2-11e9-8a27-6a761bb2e362.PNG">
 
 
 ## UPLOAD
